@@ -1,6 +1,6 @@
 # Java projects
-[begin](./begins)
+* [begin](./begins)
 
-[advanced](./advanced)
+* [advanced](./advanced)
 
-[expert](./expert)
+* [expert](./expert)
